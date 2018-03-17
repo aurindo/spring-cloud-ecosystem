@@ -14,6 +14,8 @@
 
         <module>bookService</module>
         <module>ratingService</module>
+        <module>userService</module>
+
     </modules>
     <packaging>pom</packaging>
 

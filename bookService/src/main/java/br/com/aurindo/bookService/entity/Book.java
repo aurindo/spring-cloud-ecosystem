@@ -1,4 +1,4 @@
-package entity;
+package br.com.aurindo.bookService.entity;
 
 public class Book {
 	
