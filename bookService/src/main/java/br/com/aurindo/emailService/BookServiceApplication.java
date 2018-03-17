@@ -1,4 +1,4 @@
-package br.com.aurindo.bookService;
+package br.com.aurindo.emailService;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import entity.Book;
+import br.com.aurindo.emailService.entity.Book;
 
 @SpringBootApplication
 @EnableEurekaClient

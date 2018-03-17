@@ -1,4 +1,4 @@
-package entity;
+package br.com.aurindo.emailService.entity;
 
 public class Book {
 	
@@ -32,6 +32,5 @@ public class Book {
 	public void setTitle(String title) {
 		this.title = title;
 	}
-    
-    
+
 }

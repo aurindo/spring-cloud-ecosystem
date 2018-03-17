@@ -1,4 +1,4 @@
-package entity;
+package br.com.aurindo.emailService.entity;
 
 public class Rating {
 	
